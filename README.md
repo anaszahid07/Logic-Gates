@@ -4,17 +4,15 @@ Perform logical operations:
 <br>NAND
 <br>XOR
 <br>
-<br>
-<br>
 Which operation you want to do?
-1-AND
-2-OR
-3-NAND
-4-XOR
-Enter your choice:(1-4) 
-1
-Enter two numbers in binary form: 
-1
-0
-1 AND 0 = 0
-Do you want to perform another operation?: y
+<br>1-AND
+<br>2-OR
+<br>3-NAND
+<br>4-XOR
+<br>Enter your choice:(1-4) 
+<br>1
+<br>Enter two numbers in binary form: 
+<br>1
+<br>0
+<br>1 AND 0 = 0
+<br>Do you want to perform another operation?: y
