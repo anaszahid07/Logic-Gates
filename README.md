@@ -5,8 +5,8 @@ Perform logical operations:
 <br>XOR
 <br>
 <br>
+<br>Example:
 Which operation you want to do?
-<br>
 <br>1-AND
 <br>2-OR
 <br>3-NAND
